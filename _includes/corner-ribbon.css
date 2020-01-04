@@ -1,0 +1,123 @@
+/* The ribbons 
+
+.corner-ribbon{
+  width: 150px;
+  h/eight: 50px;
+  background: #e43;
+  position: relative;
+  t/op: 25px;
+  l/eft: -50px;
+  text-align: center;
+  line-height: 20px;
+  letter-spacing: 1px;
+  color: #f0f0f0;
+  tran/sform: rotate(-45deg);
+  -we/bkit-transform: rotate(-45deg);
+}
+
+/* Custom styles 
+
+.corner-ribbon.sticky{
+  position: fixed;
+}
+
+.corner-ribbon.shadow{
+  box-shadow: 0 0 3px rgba(0,0,0,.3);
+}
+
+/* Different positions 
+
+.corner-ribbon.top-left{
+  t/op: 25px;
+  l/eft: -50px;
+  tra/nsform: rotate(-45deg);
+  -web/kit-transform: rotate(-45deg);
+}
+
+.corner-ribbon.top-right{
+  top: 25px;
+  right: -50px;
+  left: auto;
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+
+.corner-ribbon.bottom-left{
+  top: auto;
+  bottom: 25px;
+  left: -50px;
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+
+.corner-ribbon.bottom-right{
+  top: auto;
+  right: -50px;
+  bottom: 25px;
+  left: auto;
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+/* Colors 
+
+.corner-ribbon.white{background: #f0f0f0; color: #555;}
+.corner-ribbon.black{background: #333;}
+.corner-ribbon.grey{background: #999;}
+.corner-ribbon.blue{background: #39d;}
+.corner-ribbon.green{background: #2c7;}
+.corner-ribbon.turquoise{background: #8C9C1F;}
+.corner-ribbon.purple{background: #95b;}
+.corner-ribbon.red{background: #e43;}
+.corner-ribbon.orange{background: #e82;}
+.corner-ribbon.yellow{background: #ec0;}
+
+
+/*Section header after 
+h3:after
+{
+	content: "";
+	posit/ion: absolute;
+	le/ft: 50%;
+	bottom: -24px;
+	width: 140px;
+	height:2px;
+	ma/rgin-left: -70px;
+	margin-bottom: 20px;
+    display:block;
+    border:2px solid #A1D044;
+}
+
+.ac/cordion { counter-reset: section; margin-left: 0; margin-bottom: 10px; }
+.acc/ordion .accordion-navigation > a { 
+    padding-left: 3.5em;
+	background: #eeeae4;
+	color: #082047;
+	border: 1px solid #c5ac8d;
+	margin-bottom: 2px;
+}
+
+.ac/cordion .accordion-navigation > a:hover {
+	background: #dfd4ca;
+}
+
+
+
+.ac/cordio/n-navigation > a:after {
+    border-color: #643f15 transparent transparent transparent;
+    border-image: none;
+    border-style: solid;
+    border-width: 8px;
+    content: "";
+    display: block;
+    height: 0;
+    position: absolute;
+    right: 2em;
+    width: 0;
+	margin-top: -.95em;
+}
+
+
+
+
+

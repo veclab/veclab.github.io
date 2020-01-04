@@ -1,0 +1,21 @@
+- menu_name: "Links"
+
+- name: "KEMRI-Wellcome Trust Research Programme"
+  url: "http://www.kemri-wellcome.org/"
+  class: "services-newsletter"
+  title: "KEMRI-Wellcome Trust Research Programme"
+
+- name: "University of Warwick"
+  url: "http://www2.warwick.ac.uk/"
+  class: "services-newsletter"
+  title: "University of Warwick"
+
+- name: "Oxford University"
+  url: "http://www.ox.ac.uk/"
+  class: "services-newsletter"
+  title: "University of Oxford"
+
+- name: "Wellcome-Trust Sanger Institute"
+  url: "http://www.sanger.ac.uk"
+  class: "services-newsletter"
+  title: "Wellcome Trust Sanger Institute"

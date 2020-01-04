@@ -1,0 +1,143 @@
+---
+layout: page-fullwidth
+#subheadline: "Biography"
+permalink: "/nelson-kibinge/"
+header: no
+---
+
+
+<div class="row fullWidth">
+<div class="large-12 columns">
+<ul class="breadcrumbs">
+  <li><a href="{{ site.url }}/">Home</a></li>
+  <li><a href="{{ site.url }}/team">Team</a></li>
+  <li class="unavailable"><a href="#">Nelson Kibinge</a></li>
+</ul>
+</div>
+</div>
+
+
+
+<div class = "row">
+<!-- contact block -->
+<div class = "large-12 columns">
+
+<div class = "large-3 columns">
+<div class="sidebar text-center">
+  <h4>Nelson Kibinge (BSc,MSc,PhD)</h4>
+<br>
+<ul class="nobull">
+	<li><img src="{{ site.url }}/images/Nelson-Kibinge.jpg" alt="" height="200" width="225"> </li>
+
+	<li><h6>Post Doc</h6></li>
+	<li><h5>Contact</h5></li>
+	<li>Department Of Epidemiology <br>& Demography</li>
+	<li>Kemri Wellcome Trust</li>
+	<li>Kilifi, Kenya</li>
+	<li>&#9742;: </li>
+	<li><a href="mailto:nkibinge>kemri-wellcome<org" target="_top" onclick = "this.href=this.href
+              .replace(/>/,'&#64;')
+              .replace(/</,'&#46;')"> &#9993; Email me</a></li>
+	
+</ul>
+</div>
+</div>
+
+
+<!-- Content -->
+<div class = "large-9 columns">
+
+<div class="row">
+<br>
+<h5>Background</h5>
+<br>
+
+<p class="text-justify">
+I am an IDeAL early career postdoctoral fellow at the KEMRI-Wellcome Trust Programme since April 2016. I hold a BSc in Biology degree from the University of Nairobi and an MSc. and PhD in Computational Biology from the Nara Institute of Science and Technology (NAIST), Japan. 
+</p>
+
+<p class="text-justify">
+Although originally a biologist, I have skills and experience in bioinformatics particularly in development of tools for sequence analysis applications for phylogenetics and transcriptomics. My current research project focuses on designing sampling strategies for optimizing diversity capture based on RSV sequences. Other projects include spatial epidemiology work whose objective is to map transmission patterns of RSV in Kenya.
+</p>
+
+
+<!-- Affiliation
+<p><h5>Affiliation</h5></p>
+<ul>
+<li><a href="#"></a></li>
+</ul>
+</div>  -->
+
+
+<!-- Current Projects
+<div class="row">
+<p><h5>Current Projects </h5></p>
+<ul>
+<li><strong></strong> 
+<br> Funded by: </li>
+</ul>
+</div>  -->
+
+
+<!-- publications -->
+
+<br>
+
+<hr>
+<div class="row">
+<h5>Selected Publications </h5>
+</div>
+<br>
+
+<div class="row">
+<ul class="nobull">
+	<h6><a href="">Integrated pathway-based transcription regulation network mining and visualization based on gene expression profiles.</a></h6>
+	<p>Kibinge, N., Ono, N., Horie, M., Sato, T., Sugiura, T., Altaf-Ul-Amin, M., Saito, A. and Kanaya, S.
+	<br><em><strong>Journal of biomedical informatics, 61, pp.194-202. (2016) </strong> </em> </p>
+</ul>
+</div>
+<hr>
+
+<div class="row">
+<ul class="nobull">
+	<h6><a href="">Clustering of 3D‐Structure Similarity Based Network of Secondary Metabolites Reveals Their Relationships with Biological Activities.</a></h6>
+	<p>Ohtana, Y., Abdullah, A.A., Altaf‐Ul‐Amin, M., Huang, M., Ono, N., Sato, T., Sugiura, T., Horai, H., Nakamura, Y., Lange, K.W. and Kibinge, N.K.
+	<br><em><strong>Molecular Informatics, 33(11‐12), pp.790-801. (2014) </strong> </em> </p>
+</ul>
+</div>
+<hr>
+
+<div class="row">
+<ul class="nobull">
+	<h6><a href="">Integration of residue attributes for sequence diversity characterization of terpenoid enzymes.</a></h6>
+	<p>Kibinge, N., Ikeda, S., Ono, N., Altaf-Ul-Amin, M. and Kanaya, S.
+	<br><em><strong>BioMed research international (2014) </strong> </em> </p>
+</ul>
+</div>
+<hr>	
+
+<div class="row">
+<ul class="nobull">
+	<h6><a href="">Systematization of the protein sequence diversity in enzymes related to secondary metabolic pathways in plants, in the context of big data biology inspired by the KNApSAcK Motorcycle database.</a></h6>
+	<p>Ikeda, S., Abe, T., Nakamura, Y., Kibinge, N., Morita, A.H., Nakatani, A., Ono, N., Ikemura, T., Nakamura, K., Altaf-Ul-Amin, M. and Kanaya, S.
+	<br><em><strong>Plant and Cell Physiology, p.pct041. (2013) </strong> </em> </p>
+</ul>
+</div>
+<hr>
+
+<div class="row">
+<ul class="nobull">
+	<h6><a href="">Data mining methods for omics and knowledge of crude medicinal plants toward big data biology.</a></h6>
+	<p>Afendi, F.M., Ono, N., Nakamura, Y., Nakamura, K., Darusman, L.K., Kibinge, N., Morita, A.H., Tanaka, K., Horai, H., Altaf-Ul-Amin, M. and Kanaya, S.
+	<br><em><strong> Computational and Structural Biotechnology Journal, 4(5), pp.1-14. (2013)</em> </p>
+</ul>
+</div>
+
+<hr>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=nelson+kibinge" target="_blank"> --> view all Dr. Nelson Kibinge's publications</a>
+
+</div>
+</div>
+</div>
+
+

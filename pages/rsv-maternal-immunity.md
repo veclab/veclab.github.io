@@ -1,0 +1,33 @@
+---
+layout: page-fullwidth
+subheadline: "RSV maternal antibodies study"
+permalink: "/rsv-maternal-antibodies/"
+header: no
+---
+
+<div class="row">
+<div class="large-4 columns">
+<img src="{{ site.url }}/images/maternal-antibodies.png" alt="" height="200" width="225">
+</div>
+
+<div class="large-8 columns">
+
+<p>
+<strong>
+Quantifying protective correlates of RSV specific maternal immunity
+</strong>
+</p>
+<p><strong> Study PI: </strong><a href="{{ site.url }}/joyce-nyiro"> Joyce Nyiro (BSc, MSc)</a></p>
+
+<p class="text-justify">
+A key target group for RSV disease prevention is young infants under 6 months of age for whom the risk of severe disease is high. Immunisation is the ideal strategy for prevention but to date there are no licensed vaccines for RSV. Early advances in development of a vaccine to provide direct protection to the infant has been impeded by historical failure of a formalin inactivated vaccine and difficulties in designing an immunogenic live-attenuated vaccine that is well tolerated by the young infant. Consequently, maternal vaccination to boost the level of RSV-specific antibodies in pregnant women to extend the duration of protective antibodies in early infancy has been considered as a plausible approach. The success in development of an effective maternal RSV vaccine is governed by quantitative data on the level of maternal RSV specific neutralising antibodies at birth required to provide protection against RSV disease among infants, and the duration over which this protection would last.
+</p>
+
+<p class="text-justify"
+In this study we focussed on quantifying the different levels maternal antibodies that have a bearing on the strategy of enhancing infant protection. The study involved screening of cord and three-monthly follow up blood samples of the Kilifi birth cohort (KBC) for RSV specific neutralizing antibodies by the plaque reduction neutralisation test (PRNT). The design was a nested case control study with cases being severe RSV antigen confirmed infants admitted to Kilifi County Hospital (KCH) and a set of controls matched on date of birth and location without documented severe RSV.
+The study arose out of interest shown by the Program for Appropriate Technology in Health (PATH) in maternal boosting as a vaccination strategy and in quantifying protective levels of neutralizing antibodies. 
+</p>
+
+</div>
+</div>
+

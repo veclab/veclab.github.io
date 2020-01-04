@@ -1,0 +1,32 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: About
+  url: "/about/"
+  side: right
+
+- title: "Research"
+  url: "/research/"
+  side: right
+
+- title: Team
+  url: "/team/"
+  side: right
+  
+- title: Publications
+  url: "/publications/"
+  side: right
+
+- title: Data
+  url: "/data/"
+  side: right
+
+
+- title: Blog
+  url: "/blog/"
+  side: right
+
+- title: Contact us
+  url: "/contact/"
+  side: right

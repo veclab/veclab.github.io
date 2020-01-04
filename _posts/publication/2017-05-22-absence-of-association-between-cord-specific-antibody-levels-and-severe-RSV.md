@@ -1,0 +1,28 @@
+---
+layout: page
+title:  "Absence of association between cord specific antibody levels and severe RSV"
+breadcrumb: true
+categories:
+    - publication
+tags:
+    - RSV
+    - transmission
+    - maternal
+    - antibodies
+
+permalink: blog/absence-of-association-between-cord-specific-antibody-levels-and-severe-RSV
+header: no
+comments: true
+author: Joyce
+---
+<figure> 
+  <center><img src="{{ site.url }}/images/article_img/joyce-blog.png" alt="" height="400" width="400"></center>
+</figure>
+
+<p class="text-justify lead">
+Severe Respiratory syncytial virus (RSV) disease predominantly occurs among infants under 6 months of age. Boosting of maternal antibodies by a vaccine to prevent severe RSV disease during infancy is being a considered a realistic approach. At present, there is no quantitative data on the levels of RSV specific neutralizing antibodies at birth required to provide protection against RSV disease among infants, and the duration over which this protection would last.
+</p>
+
+<p class="text-justify lead">
+<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166706">In this study</a>, we describe the association between different levels of RSV specific maternal antibodies and the degree of protection against RSV disease among infants in a case control study from a birth cohort in Kilifi; a coastal part of Kenya. Our results did not show a strong evidence of protection by maternal RSV neutralizing antibodies. We however, showed a decrease in the odds of RSV disease with increase in log2PRNT cord blood titre and also a 30% reduction in RSV disease per unit increase in log2PRNT titre among infants in the <3months age group but this association was not significant. Even though there is still uncertainty about the protective levels of maternal antibodies acquired from natural RSV infection, it is likely that higher levels of neutralizing antibody beyond the normal range may be required for protection; which it is hoped can be achieved by a maternal RSV vaccine.
+</p>

@@ -1,0 +1,26 @@
+---
+layout: page-fullwidth
+subheadline: "Biography"
+permalink: "/james-otieno/"
+header: no
+---
+<div class = "row">
+<div class = "small-4 columns">
+<img src="{{ site.url }}/images/James-Otieno.jpg" alt="" height="200" width="225">
+</div>
+
+
+
+<div class = "small-8 columns" >
+<h6>James Otieno</h6>
+
+
+<p class="text-justify">
+I am a PhD student in the field of Molecular Evolution registered with the Open University (UK). My background is in Biochemistry (BSc, Moi University, Kenya) and Bioinformatics (MSc, University of Leicester, UK).
+</p>
+
+<p class="text-justify">
+I am interested in the genetic diversity, evolution and transmission dynamics of viruses. My PhD project seeks to understand the transmission dynamics of RSV genotype ON1 in Kenya by asking questions such as: How and when does RSV get into the country? How does it spread within the country? How does it evolve? What factors are important for it’s spread? Answering these questions involve bringing together evolutionary processes, geography and host ecological dynamics, and employing phylogenetic
+and phylogeographic approaches and tools.
+</p>
+</div>

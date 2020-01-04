@@ -1,0 +1,30 @@
+---
+layout: page-fullwidth
+subheadline: "Biography"
+permalink: "/lilian-mwango/"
+header: no
+---
+<div class = "row">
+<div class = "small-4 columns">
+<img src="{{ site.url }}/images/Lilian-Mwango.jpeg" alt="" height="200" width="225">
+</div>
+
+
+<div class = "small-8 columns" >
+<h6>Lilian Mwango (BSc,MSc)</h6>
+
+<p class="text-justify">
+I hold a bachelors of science degree in Information Sciences from Moi university and a Masters degree in Information Systems and 
+Data Management from the University of Aberdeen funded by the Commonwealth Scholarship Commission. As the group's data archivist, 
+my focus is on implementing research data integration frameworks, perform quality assurance and curation procedures as well 
+as building and maintaining the research data archives. This enhances long-term data preservation, discovery and 
+reuse.
+
+</p>
+
+<p class="text-justify">
+My interests are  in developing tools for data processing, integration, preservation and discovery using semantic web and linked data technologies.
+</p>
+
+</div>
+

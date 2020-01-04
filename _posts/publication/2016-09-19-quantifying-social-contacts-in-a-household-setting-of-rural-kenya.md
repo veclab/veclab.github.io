@@ -1,0 +1,72 @@
+---
+layout: page
+title:  "Quantifying social contacts in a household setting of rural Kenya "
+breadcrumb: true
+categories:
+    - publication
+tags:
+    - social networks
+    - wearable proximity sensors
+    - contact-study
+    - RFID tags
+
+permalink: blog/Quantifying-social-contacts-in-a-household-setting-of-rural-Kenya 
+header: no
+comments: true
+author: James
+---
+<figure> 
+  <center><img src="{{ site.url }}/images/article_img/Kiti-2016-EPJDS.jpeg" alt="" height="400" width="400"></center>
+</figure>
+
+<p class="text-justify lead">
+Everyday, we interact with people from different social, demographic, economic, cultural and mobility backgrounds. 
+These backgrounds determine whom we meet, where we meet, and the duration of the interaction. 
+</p>
+
+<p class="text-justify lead">
+In epidemiology, these characteristics are important in the spread of infections that require close or direct physical contact, such influenza, RSV, measles and other respiratory illnesses. For example, 
+the probability of a school child acquiring infection from fellow students or siblings could be higher compared to acquiring it from a friend. This can be explained by the fact that, a school child 
+will spend more time either at school or at home. 
+</p>
+
+<p class="text-justify lead">
+Data on individual interactions and how they shape the transmission events are difficult to collect and obtain. A novel way of collecting this data is use of electronic proximity sensors 
+. Each sensor detects and records the “sighting” of a similar tag worn by different participant when they come to close proximity. 
+Therefore, it is possible to determine who an individual meets, at what time, and for how long (maybe even location) by looking at the time-stamp data collected by the electronic sensors. 
+
+</p>
+<p class="text-justify lead">
+In order to assess the challenges of deploying electronic sensors to obtain social contact data that would inform on transmission patterns of respiratory illness in a developing country
+background such as Kenya, we set out to collect close proximity contact data from 100 individuals in 5 households located within the Kilifi Heath Demographic Survey (KDHSS).
+
+</p>
+<p class="text-justify lead">
+Each individual, apart from one infant, was given a sensor to wear all the time for 4 days. They would wear the sensor from the time they wake in the morning up to the time they go
+to sleep in the night. In addition to the sensor’s proximity data, we collected each individual’s views concerning the sensors for example what do they think of the devices? Would 
+they be willing to wear them for longer periods? What kind of questions were they asked when seen wearing them? Were they concerned about their privacy?
+
+</p>
+<p class="text-justify lead">
+Although this was a small study, we present interesting findings that have not been demonstrated empirically before in a remote rural population from a developing country. 
+An important output of this study was community-based suggestion on how to improve the study methods. Through focus group discussions, participants mentioned that intensive 
+community engagement describing the study tools and procedures was important to allay privacy and confidentiality concerns, especially of non-participants. Within households, 
+we demonstrated the presence of strong ties especially between school going children. In three of the five households with contemporaneous data, adults formed the links between
+the households. Lastly, we also demonstrated a circadian rhythm of high interactions in the early morning, noon and evening, with dips occurring in between. 
+This can be explained by regular routines of household members.
+</p>
+
+<p class="text-justify lead">
+Although these results may not be generalizable to other contexts, they are important  for future study designs that involve larger populations.
+Currently, plans are underway to conduct large studies that involve schools and households located in urban and rural settings within Kilifi.
+Results from human network modeling are important in designing interventions against transmission of infections spread via close contact, 
+especially those that are not covered by current vaccines.
+</p>
+
+<section>
+
+<figure>
+
+</figure>
+</section>
+

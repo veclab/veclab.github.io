@@ -1,0 +1,546 @@
+---
+layout: page-fullwidth
+header: no
+permalink: "/publications-page4/"
+---
+
+<!-- pagination ...check customisation in _settings_global.scss -->
+<div class="row right">
+<div class="pagination-centered">
+  <ul class="inline-list">
+    <li class="arrow unavailable"><a href="{{ site.url }}/publications-page2">&laquo;</a></li>
+    <li><a href="{{ site.url }}/publications">1</a></li>
+    <li><a href="{{ site.url }}/publications-page2">2</a></li>
+    <li><a href="{{ site.url }}/publications-page3">3</a></li>
+    <li class="current"><a href="{{ site.url }}/publications-page4">4</a></li>
+    <li><a href="{{ site.url }}/publications-page5">5</a></li>
+    <li><a href="{{ site.url }}/publications-page6">6</a></li>
+   <!-- <li><a href="">4</a></li>
+    <li class="unavailable"><a href="">&hellip;</a></li>
+    <li><a href="">12</a></li>
+    <li><a href="">13</a></li> -->
+    <li class="arrow"><a href="">&raquo;</a></li>
+  </ul>
+</div>
+</div>
+
+
+<hr>
+ 
+<div class="row">
+
+<div class="small-2 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/cagoti-jid-2012.png" alt="">
+</div>
+
+<div class="small-10 columns left">
+<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/22966119" target="_blank">Genetic relatedness of infecting and reinfecting respiratory syncytial virus strains identified in a birth cohort from rural Kenya. Journal of Infectious Diseases. 2012 Nov 15;206(10):1532-41.</a></h6>
+<p>Agoti CN, Mwihuri AG, Sande CJ, Onyango CO, Medley GF, Cane PA, Nokes DJ.</p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/23347702" target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?hl=en&q=Severe+lower+respiratory+tract+infection+in+early+infancy+and+pneumonia+hospitalizations+among+children%2C+Kenya.&btnG=&as_sdt=1%2C5&as_sdtp=" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-5 columns left">
+<a href="https://doi.org/10.1093/infdis/jis570" target="_blank">doi: 10.1093/infdis/jis570</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<hr>
+ 
+<div class="row">
+
+<div class="small-2 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/eohuma-aje-2012.png" alt="">
+</div>
+
+<div class="small-10 columns left">
+<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/23059788" target="_blank">The natural history of respiratory syncytial virus in a birth cohort: the influence of age and previous infection on reinfection and disease. American journal of epidemiology. 2012 Nov 1;176(9):794-802.</a></h6>
+<p>Ohuma EO, Okiro EA, Ochola R, Sande CJ, Cane PA, Medley GF, Bottomley C, Nokes DJ.</p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/23347702" target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?hl=en&q=Severe+lower+respiratory+tract+infection+in+early+infancy+and+pneumonia+hospitalizations+among+children%2C+Kenya.&btnG=&as_sdt=1%2C5&as_sdtp=" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-5 columns left">
+<a href="https://doi.org/10.1093/aje/kws257" target="_blank">doi: 10.1093/aje/kws257</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<hr>
+ 
+<div class="row">
+
+<div class="small-2 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/cwebb-pid-2012.png" alt="">
+</div>
+
+<div class="small-10 columns left">
+<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/23059788" target="_blank">Treatment failure among Kenyan children with severe pneumonia–a cohort study. The Pediatric infectious disease journal. 2012 Sep;31(9):e152.</a></h6>
+<p>Webb C, Ngama M, Ngatia A, Shebbe M, Morpeth S, Mwarumba S, Bett A, Nokes DJ, Seale AC, Kazungu S, Munywoki P.</p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/23347702" target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?hl=en&q=Severe+lower+respiratory+tract+infection+in+early+infancy+and+pneumonia+hospitalizations+among+children%2C+Kenya.&btnG=&as_sdt=1%2C5&as_sdtp=" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-5 columns left">
+<a href="https://doi.org/10.1097/INF.0b013e3182638012" target="_blank">doi: 10.1097/INF.0b013e3182638012</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<hr>
+
+<div class="row">
+
+<div class="small-2 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/conyango-jmv-2012.png" alt="">
+</div>
+
+<div class="small-10 columns left">
+<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/22431032" target="_blank"> Molecular epidemiology of human rhinovirus infections in Kilifi, coastal Kenya. Journal of medical virology. 2012 May 1;84(5):823-31.</a></h6>
+<p>Onyango CO, Welch SR, Munywoki PK, Agoti CN, Bett A, Ngama M, Myers R, Cane PA, Nokes DJ.</p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/23347702" target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?hl=en&q=Severe+lower+respiratory+tract+infection+in+early+infancy+and+pneumonia+hospitalizations+among+children%2C+Kenya.&btnG=&as_sdt=1%2C5&as_sdtp=" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-5 columns left">
+<a href="https://doi.org/10.1002/jmv.23251" target="_blank">doi: 10.1002/jmv.23251</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<hr>
+ 
+<div class="row">
+
+<div class="small-2 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/eokiro-2012-pone.png" alt="">
+</div>
+
+<div class="small-10 columns left">
+<h6><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3530465/" target="_blank">The incidence and clinical burden of respiratory syncytial virus disease identified through hospital outpatient presentations in Kenyan children. PLoS One. 2012 Dec 26;7(12):e52520.</a></h6>
+<p>Okiro EA, Ngama M, Bett A, Nokes DJ.</p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/23347702" target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?hl=en&q=Severe+lower+respiratory+tract+infection+in+early+infancy+and+pneumonia+hospitalizations+among+children%2C+Kenya.&btnG=&as_sdt=1%2C5&as_sdtp=" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-5 columns left">
+<a href="https://dx.doi.org/10.1371%2Fjournal.pone.0052520" target="_blank">doi: 10.1371/journal.pone.0052520</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<hr>
+ 
+<div class="row">
+
+<div class="small-2 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/hoek-pone-2012.png" alt="">
+</div>
+
+<div class="small-10 columns left">
+<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/23115650" target="_blank">A cost effectiveness and capacity analysis for the introduction of universal rotavirus vaccination in Kenya: comparison between Rotarix and RotaTeq vaccines. PloS one. 2012 Oct 24;7(10):e47511.</a></h6>
+<p>van Hoek AJ, Ngama M, Ismail A, Chuma J, Cheburet S, Mutonga D, Kamau T, Nokes DJ.</p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/23347702" target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?hl=en&q=Severe+lower+respiratory+tract+infection+in+early+infancy+and+pneumonia+hospitalizations+among+children%2C+Kenya.&btnG=&as_sdt=1%2C5&as_sdtp=" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-5 columns left">
+<a href="https://doi.org/10.1371/journal.pone.0047511" target="_blank">doi: 10.1371/journal.pone.0047511</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<hr>
+ 
+<div class="row">
+
+<div class="small-2 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/mwambi-smmr-2011.png" alt="">
+</div>
+
+<div class="small-10 columns left">
+<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/22028340" target="_blank">A frequentist approach to estimating the force of infection for a respiratory disease using repeated measurement data from a birth cohort. Statistical methods in medical research. 2011 Oct;20(5):551-70.</a></h6>
+<p>Mwambi H, Ramroop S, White LJ, Okiro EA, Nokes DJ, Shkedy Z, Molenberghs G.</p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/23347702" target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?hl=en&q=Severe+lower+respiratory+tract+infection+in+early+infancy+and+pneumonia+hospitalizations+among+children%2C+Kenya.&btnG=&as_sdt=1%2C5&as_sdtp=" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-5 columns left">
+<a href="https://doi.org/10.1177/0962280210385749" target="_blank">doi: 10.1177/0962280210385749</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<hr>
+ 
+<div class="row">
+
+<div class="small-2 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/munywoki-jcv-2011.png" alt="">
+</div>
+
+<div class="small-10 columns left">
+<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/21775539" target="_blank">Improved detection of respiratory viruses in pediatric outpatients with acute respiratory illness by real-time PCR using nasopharyngeal flocked swabs. Journal of clinical microbiology. 2011 Sep 1;49(9):3365-7.</a></h6>
+<p>Munywoki PK, Hamid F, Mutunga M, Welch S, Cane P, Nokes DJ.</p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/23347702" target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?hl=en&q=Severe+lower+respiratory+tract+infection+in+early+infancy+and+pneumonia+hospitalizations+among+children%2C+Kenya.&btnG=&as_sdt=1%2C5&as_sdtp=" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-5 columns left">
+<a href="https://doi.org/10.1128/JCM.02231-10" target="_blank">doi: 10.1128/JCM.02231-10</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<hr>
+ 
+<div class="row">
+
+<div class="small-2 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/hamitt-jcv-2011.png" alt="">
+</div>
+
+<div class="small-10 columns left">
+<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/21490188" target="_blank">Added value of an oropharyngeal swab in detection of viruses in children hospitalized with lower respiratory tract infection. Journal of clinical microbiology. 2011 Jun 1;49(6):2318-20.</a></h6>
+<p>Hammitt LL, Kazungu S, Welch S, Bett A, Onyango CO, Gunson RN, Scott JA, Nokes DJ.</p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/23347702" target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?hl=en&q=Severe+lower+respiratory+tract+infection+in+early+infancy+and+pneumonia+hospitalizations+among+children%2C+Kenya.&btnG=&as_sdt=1%2C5&as_sdtp=" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-5 columns left">
+<a href="https://doi.org/10.1128/JCM.02605-10" target="_blank">doi: 10.1128/JCM.02605-10</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<hr>
+
+<div class="row">
+
+<div class="small-2 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/nyiro-bmc-2011.png" alt="">
+</div>
+
+<div class="small-10 columns left">
+<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/21627803" target="_blank">Seroprevalence, predictors and estimated incidence of maternal and neonatal Herpes Simplex Virus type 2 infection in semi-urban women in Kilifi, Kenya. BMC infectious diseases. 2011 May 31;11(1):155.</a></h6>
+<p>Nyiro JU, Sanders EJ, Ngetsa C, Wale S, Awuondo K, Bukusi E, Price MA, Amornkul PN, Nokes DJ. </p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/23347702" target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?hl=en&q=Severe+lower+respiratory+tract+infection+in+early+infancy+and+pneumonia+hospitalizations+among+children%2C+Kenya.&btnG=&as_sdt=1%2C5&as_sdtp=" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-5 columns left">
+<a href="https://doi.org/10.1186/1471-2334-11-155" target="_blank">doi: 10.1186/1471-2334-11-155</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<hr>
+
+<div class="row">
+
+<div class="small-2 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/moisi-who-2011.png" alt="">
+</div>
+
+<div class="small-10 columns left">
+<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/21346921" target="_blank">Sensitivity of hospital-based surveillance for severe disease: a geographic information system analysis of access to care in Kilifi district, Kenya. Bulletin of the World Health Organization. 2011 Feb;89(2):102-11.</a></h6>
+<p>Moïsi JC, Nokes DJ, Gatakaa H, Williams TN, Bauni E, Levine OS, Scott JA.</p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/23347702" target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?hl=en&q=Severe+lower+respiratory+tract+infection+in+early+infancy+and+pneumonia+hospitalizations+among+children%2C+Kenya.&btnG=&as_sdt=1%2C5&as_sdtp=" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-5 columns left">
+<a href="https://doi.org/10.2471/BLT.10.080796" target="_blank">doi: 10.2471/BLT.10.080796</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<hr>
+
+<div class="row">
+
+<div class="small-2 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/agoti-jv-2010.png" alt="">
+</div>
+
+<div class="small-10 columns left">
+<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/20660195" target="_blank">Intrapatient variation of the respiratory syncytial virus attachment protein gene. Journal of virology. 2010 Oct 1;84(19):10425-8.</a></h6>
+<p>Agoti CN, Mbisa JL, Bett A, Medley GF, Nokes DJ, Cane PA.</p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/23347702" target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?hl=en&q=Severe+lower+respiratory+tract+infection+in+early+infancy+and+pneumonia+hospitalizations+among+children%2C+Kenya.&btnG=&as_sdt=1%2C5&as_sdtp=" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-5 columns left">
+<a href="https://doi.org/10.1128/JVI.01181-10" target="_blank">doi: 20660195</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<hr>
+
+<div class="row">
+
+<div class="small-2 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/nokes-jid-2010.png" alt="">
+</div>
+
+<div class="small-10 columns left">
+<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/20684700" target="_blank">Rotavirus genetic diversity, disease association, and temporal change in hospitalized rural Kenyan children. Journal of Infectious Diseases. 2010 Sep 1;202(Supplement 1):S180-6.</a></h6>
+<p>Nokes DJ, Peenze I, Netshifhefhe L, Abwao J, De Beer MC, Seheri M, Williams TN, Page N, Steele D.</p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/23347702" target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?hl=en&q=Severe+lower+respiratory+tract+infection+in+early+infancy+and+pneumonia+hospitalizations+among+children%2C+Kenya.&btnG=&as_sdt=1%2C5&as_sdtp=" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-5 columns left">
+<a href="https://doi.org/10.1086/653566" target="_blank">doi: 10.1086/653566</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<hr>
+
+<div class="row">
+
+<div class="small-2 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/nair-lancet-2010.png" alt="">
+</div>
+
+<div class="small-10 columns left">
+<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/20399493" target="_blank">Global burden of acute lower respiratory infections due to respiratory syncytial virus in young children: a systematic review and meta-analysis. The Lancet. 2010 May 7;375(9725):1545-55.</a></h6>
+<p>Nair H, Nokes DJ, Gessner BD, Dherani M, Madhi SA, Singleton RJ, O'Brien KL, Roca A, Wright PF, Bruce N, Chandran A.</p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/23347702" target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?hl=en&q=Severe+lower+respiratory+tract+infection+in+early+infancy+and+pneumonia+hospitalizations+among+children%2C+Kenya.&btnG=&as_sdt=1%2C5&as_sdtp=" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-5 columns left">
+<a href="https://doi.org/10.1016/S0140-6736(10)60206-1" target="_blank">doi: 10.1016/S0140-6736(10)60206-1</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<hr>
+
+<div class="row">
+
+<div class="small-2 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/okiro-bmc-2010.png" alt="">
+</div>
+
+<div class="small-10 columns left">
+<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/20096106" target="_blank">Duration of shedding of respiratory syncytial virus in a community study of Kenyan children. BMC infectious diseases. 2010 Jan 22;10(1):15.</a></h6>
+<p>Okiro EA, White LJ, Ngama M, Cane PA, Medley GF, Nokes DJ. </p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/23347702" target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?hl=en&q=Severe+lower+respiratory+tract+infection+in+early+infancy+and+pneumonia+hospitalizations+among+children%2C+Kenya.&btnG=&as_sdt=1%2C5&as_sdtp=" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-5 columns left">
+<a href="https://doi.org/10.1186/1471-2334-10-15" target="_blank">doi: 10.1186/1471-2334-10-15</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<hr>
+
+<div class="row">
+
+<div class="small-2 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/ochola-pone-2009.png" alt="">
+</div>
+
+<div class="small-10 columns left">
+<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/20096106" target="_blank">The level and duration of RSV-specific maternal IgG in infants in Kilifi Kenya. PloS one. 2009 Dec 2;4(12):e8088.</a></h6>
+<p>Ochola R, Sande C, Fegan G, Scott PD, Medley GF, Cane PA, Nokes DJ. </p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/19956576" target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?hl=en&q=Severe+lower+respiratory+tract+infection+in+early+infancy+and+pneumonia+hospitalizations+among+children%2C+Kenya.&btnG=&as_sdt=1%2C5&as_sdtp=" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-5 columns left">
+<a href="https://doi.org/10.1371/journal.pone.0008088" target="_blank">doi: 10.1371/journal.pone.0008088</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<hr>
+ 
+<div class="row">
+
+<div class="small-2 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/nokes-cid-2010.png" alt="">
+</div>
+
+<div class="small-10 columns left">
+<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/19788358" target="_blank">Incidence and severity of respiratory syncytial virus pneumonia in rural Kenyan children identified through hospital surveillance. Clinical infectious diseases. 2009 Nov 15;49(9):1341-9.</a></h6>
+<p>Nokes DJ, Ngama M, Bett A, Abwao J, Munywoki P, English M, Scott JA, Cane PA, Medley GF.</p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/19956576" target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?hl=en&q=Severe+lower+respiratory+tract+infection+in+early+infancy+and+pneumonia+hospitalizations+among+children%2C+Kenya.&btnG=&as_sdt=1%2C5&as_sdtp=" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-5 columns left">
+<a href="https://doi.org/10.1086/606055" target="_blank">doi: 10.1086/606055</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<hr>
+ 
+<div class="row">
+
+<div class="small-2 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/mwaniki-who-2009.png" alt="">
+</div>
+
+<div class="small-10 columns left">
+<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/19551234" target="_blank">Emergency triage assessment for hypoxaemia in neonates and young children in a Kenyan hospital: an observational study. Bulletin of the World Health Organization. 2009 Apr;87(4):263-70.</a></h6>
+<p>Mwaniki MK, Nokes DJ, Ignas J, Munywoki P, Ngama M, Newton CR, Maitland K, Berkley JA.</p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/19956576" target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?hl=en&q=Severe+lower+respiratory+tract+infection+in+early+infancy+and+pneumonia+hospitalizations+among+children%2C+Kenya.&btnG=&as_sdt=1%2C5&as_sdtp=" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-5 columns left">
+<a href="https://dx.doi.org/10.2471%2FBLT.07.049148" target="_blank">doi: 10.2471/BLT.07.049148</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<hr>
+
+<div class="row">
+
+<div class="small-2 columns">
+ <img class="publication" src="{{ site.url }}/images/article_img/eohuma-epi-2009.png" alt="">
+</div>
+
+<div class="small-10 columns left">
+<h6><a href="https://www.ncbi.nlm.nih.gov/pubmed/18544176" target="_blank">Evaluation of a measles vaccine campaign by oral-fluid surveys in a rural Kenyan district: interpretation of antibody prevalence data using mixture models. Epidemiology and infection. 2009 Feb 1;137(02):227-33.</a></h6>
+<p>Ohuma EO, Okiro EA, Bett A, Abwao J, Were S, Samuel D, Vyse A, Gay N, Brown DW, Nokes DJ. </p>
+<div class="small-12 columns">
+<!-- <div class="small-2 columns left">
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/19956576" target="_blank">Pubmed</a>  
+</div>
+<div class="small-3 columns left">
+<a href="https://scholar.google.com/scholar?hl=en&q=Severe+lower+respiratory+tract+infection+in+early+infancy+and+pneumonia+hospitalizations+among+children%2C+Kenya.&btnG=&as_sdt=1%2C5&as_sdtp=" target="_blank">Google Scholar</a>
+</div> -->
+<div class="small-5 columns left">
+<a href="https://doi.org/10.1017/S0950268808000848" target="_blank">doi: 10.1017/S0950268808000848</a>
+</div>
+</div>
+</div>
+
+</div>
+
+<hr>
+
+
+
+
+
+<!-- pagination ...check customisation in _settings_global.scss -->
+<div class="row right">
+<div class="pagination-centered">
+  <ul class="inline-list">
+    <li class="arrow unavailable"><a href="{{ site.url }}/publications-page2">&laquo;</a></li>
+    <li><a href="{{ site.url }}/publications">1</a></li>
+    <li><a href="{{ site.url }}/publications-page2">2</a></li>
+    <li><a href="{{ site.url }}/publications-page3">3</a></li>
+    <li class="current"><a href="{{ site.url }}/publications-page4">4</a></li>
+    <li><a href="{{ site.url }}/publications-page5">5</a></li>
+    <li><a href="{{ site.url }}/publications-page6">6</a></li>
+   <!-- <li><a href="">4</a></li>
+    <li class="unavailable"><a href="">&hellip;</a></li>
+    <li><a href="">12</a></li>
+    <li><a href="">13</a></li> -->
+    <li class="arrow"><a href="">&raquo;</a></li>
+  </ul>
+</div>
+</div>

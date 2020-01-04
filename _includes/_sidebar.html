@@ -1,0 +1,23 @@
+<aside>
+    <div class="panel radius">
+        <h3>Links</h3>
+        <p></p>
+    </div>
+
+
+
+    <div class="border-dotted radius b30">
+        <!-- <img src="http://placekitten.com/271/270" alt="uh, Placekitten">  -->
+        <p class="text-left">
+        </p>
+    </div>
+
+</aside>
+
+<div>
+<ul>
+{% for item in site.data.research_sidebar %}
+<li>{{item.title}}</li>
+{% endfor %}
+</ul>
+</div>
