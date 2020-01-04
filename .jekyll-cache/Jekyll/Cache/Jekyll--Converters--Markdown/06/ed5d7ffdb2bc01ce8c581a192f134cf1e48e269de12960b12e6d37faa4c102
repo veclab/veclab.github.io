@@ -1,0 +1,48 @@
+I"<div class="row-30">
+<center>
+  <div class="small-12 small-centered columns">
+   <!-- <img src="http://localhost:4000/images/banner3.png" alt="VEC GROUP">  -->
+   <img src="http://localhost:4000/images/veclab-members.jpg" alt="VEC GROUP" />
+  </div>
+  </center>
+</div>
+<p><br /></p>
+
+<hr />
+
+<div>
+<section>
+<center>
+<p>
+<h3>The Virus Epidemiology and Control Research Group</h3>
+</p>
+<p>
+We conduct intensive long term studies into population dynamics of viral pathogens informing intervention strategies
+</p>
+
+<p>
+We are a research group at the <a href="http://www.kemri-wellcome.org" target="_blank"><strong>KEMRI-Wellcome Trust Research Programme</strong></a>
+</p>
+</center>
+</section>
+</div>
+
+<hr />
+
+<!-- Three columns of text below the carousel -->
+<div class="row">
+<section>
+<div class="large-4 columns  text-center" style="border-right: dotted #d8d8d8 1px;">
+
+<div class="">
+</div><!-- /.col-lg-4 -->
+
+<div class="large-4 columns text-center">
+
+<div class="">
+<h5> </h5>
+</div>
+
+</div><!-- /.col-lg-4 -->
+</div></section></div>
+:ET

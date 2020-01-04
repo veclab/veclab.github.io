@@ -1,0 +1,79 @@
+I"’<!-- 1 -->
+
+<section role="main" class="scroll-container">
+<div class="row">
+	
+	<div class="large-4 medium-4 columns"> <!--side nav -->
+		<div class="hide-for-small">
+			<div class="sidebar">			
+				<p></p>
+				<nav class="side-nav">
+					<ul class="nobull">
+						<!--<li><a href="#">Surveillance</a></li>-->
+						<li><a href="http://localhost:4000/research">SPRED<span class="sub-arrow"></span></a>
+							<ul class="nobull">
+								<li><a href="http://localhost:4000/spred-kenya">Country-SPReD</a></li>
+      							<li><a href="http://localhost:4000/intervention-modelling">Intervention Modelling</a></li>
+     							<li><a href="http://localhost:4000/local-spred">Local SPReD</a></li>
+      							<li><a href="http://localhost:4000/genomics-and-transmission-study">Genomics and Transmission</a></li>
+      							<li><a href="http://localhost:4000/minority-variants-study">Minority Variants</a></li>
+      							<li><a href="http://localhost:4000/rsv-on1-phylogeography">Phylogeography of RSV ON1</a></li>
+      							<li><a href="http://localhost:4000/integrated-data-modelling">Integrated Data Modelling</a></li>
+      							<li><a href="http://localhost:4000/social-networks-study">Social Networks</a></li>
+							</ul>
+						</li>
+						<li>
+							<a href="http://localhost:4000/ripek">RIPEK</a>
+						</li>
+						<li class="active">
+    						<a href="#">RSV Vaccine Modelling</a>
+  						</li>
+  						<li>
+    						<a href="http://localhost:4000/infection-dynamics-in-demographic-transition">Infection Dynamics in Demographic Transition</a>
+  						</li>
+  						<li>
+    						<a href="http://localhost:4000/quantifying-rsv-protective-immunity-correlates">Quantifying RSV Protective Immunity Correlates</a>
+  						</li>
+  						<li>
+    						<a href="http://localhost:4000/immunology-of-severe-rsv-disease">Immunology of Severe RSV Disease</a>
+  						</li>
+  						<li>
+    						<a href="http://localhost:4000/who-acquires-infection-from-whom2">Who Acquires Infection From Whom?</a>
+  						</li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</div>
+
+	<div class="large-8 medium-8 columns"> <!--container -->
+		<div class="row">
+			<div class="large-12 columns">
+				<h3 class="light centered-text" itemprop="headline">RSV Vaccine Modelling</h3>
+			</div>
+		</div>
+			<br />
+		
+		<div class="row">
+			<div class="large-12 columns">
+			<p>
+			<img align="justify" src="http://localhost:4000/images/rsv-modelling.png" alt="" height="300" width="400" />
+			</p>
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="large-12 columns">	
+			<p class="text-justify">Projections of the population-level impact of vaccination against respiratory syncytial virus (RSV) using transmission dynamic models. This a GSK contracted study to inform vaccine design and implementation and is collaborative with MAEMOD at the Mahidol-Oxford Research Unit (MORU), WT Major Overseas Programme in Bangkok, Thailand. A confidentiality agreement prevents saying more</p>
+			
+			<p><strong>Funding:</strong> GSK Vaccines and Biologicals </p>
+
+			<p><strong>Collaborators:</strong> Tim Kinyanjui, Wirichada Pan-Ngum, Lisa White,Thierry Van Effelterre, Sylvia Taylor</p>
+			</div>
+		</div>
+	</div>
+  
+</div>
+</section>
+
+:ET

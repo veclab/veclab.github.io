@@ -1,0 +1,148 @@
+I"W<!-- subheadline: "Biography" -->
+
+<div class="row fullWidth">
+<div class="large-12 columns">
+<ul class="breadcrumbs">
+  <li><a href="http://localhost:4000/">Home</a></li>
+  <li><a href="http://localhost:4000/team">Team</a></li>
+  <li class="unavailable"><a href="#">James Nokes</a></li>
+</ul>
+</div>
+</div>
+
+<div class="row">
+<!-- contact block -->
+<div class="large-12 columns">
+
+<div class="large-3 columns">
+<div class="sidebar text-center">
+  <h4>Prof. James Nokes</h4>
+
+<ul class="nobull">
+	<li><img src="http://localhost:4000/images/James-Nokes.jpg" alt="" height="200" width="225" /> </li>
+
+	<li><h6>Group Leader</h6></li>
+	<li><h5>Contact</h5></li>
+	<li>Department Of Epidemiology <br />&amp; Demography</li>
+	<li>Kemri Wellcome Trust</li>
+	<li>Kilifi, Kenya</li>
+	<li>&#9742;: 76524550</li>
+	<li><a href="mailto:jnokes&gt;kemri-wellcome&lt;org" target="_top" onclick="this.href=this.href
+              .replace(/&gt;/,'&#64;')
+              .replace(/&lt;/,'&#46;')"> &#9993; Email me</a></li>
+	
+</ul>
+</div>
+</div>
+
+
+<!-- Content -->
+<div class="large-9 columns">
+
+<div class="row">
+<br />
+<h5>Background</h5>
+<br />
+<p>
+I trained in Zoology followed by a PhD in viral epidemiology, out of which developed an enduring 
+interest in the transmission dynamics and control
+of human viral pathogens. A post-doc period at Imperial College was followed by two years at Oxford 
+and then Warwick from 1995, which remains my home institution where I am  a Professor of Infectious 
+Disease Epidemiology. 
+</p>
+
+<p class="text-justify">
+My research initially centred on
+vaccine-preventable diseases such as measles and HBV and involved collaborative studies in Ethiopia. 
+In 2001, my interests shifted to the study of respiratory syncytial virus (RSV) accompanying a move 
+of scientific base to the KEMRI-Wellcome Trust Research
+Programme (KWTRP) in Kilifi, Kenya.</p>
+
+<p class="text-justify">
+This fascinating, antigenically diverse virus - a major cause of childhood pneumonia - remains
+a focus of my research up to today. Currently, I work within the Epidemiology and Demography 
+Department, with research support
+primarily from a Wellcome Trust Senior Investigator Award.
+</p>
+
+
+<!-- Affiliation -->
+<p><h5>Affiliation</h5></p>
+<ul>
+<li><a href="https://www2.warwick.ac.uk/fac/sci/lifesci/people/djnokes/">School of Life Sciences and WIDER, University of Warwick</a></li>
+</ul>
+</div>
+
+
+<!-- Current Projects -->
+<div class="row">
+<p><h5>Current Projects </h5></p>
+<ul>
+<li><strong>Defining pathways of respiratory virus transmission leading to improved intervention strategies (Investigator Award in Biomedical Science)</strong> 
+<br /> Funded by: Wellcome Trust, Project Start Date 01-07-2014 - Project End Date 30-06-2019 </li>
+</ul>
+</div>
+
+
+<!-- publications -->
+
+
+
+<hr />
+<div class="row">
+<h5>Selected Publications </h5>
+</div>
+<br />
+
+<div class="row">
+<ul class="nobull">
+	<h6><a href="">Influenza activity in Kenya, 2007-2013 : timing, association with climatic factors, and implications for vaccination campaigns. Influenza and Other Respiratory Viruses, View</a></h6>
+	<p>Emukule, Gideon O., Mott, Joshua A., Spreeuwenberg, Peter, Viboud, Cecile, Commanday, Alexander, Muthoka, Philip, Munywoki, Patrick K., Nokes, D. James, Velden, Koos van der, Paget, John W.
+	<br /><em><strong>Influenza and Other Respiratory Viruses</strong> (2016)</em> </p>
+</ul>
+</div>
+<hr />
+
+<div class="row">
+<ul class="nobull">
+	<h6><a href="">Quantifying social contacts in a household setting of rural Kenya using wearable proximity sensors.</a></h6>
+	<p>Kiti, Moses C., Tizzoni, Michele, Kinyanjui, Timothy M., Koech, Dorothy C., Munywoki, Patrick K., Meriac, Milosch, Cappa, Luca, Panisson, André, Barrat, Alain, Cattuto, Ciro, Nokes, D. James.
+	<br /><em><strong>EPJ Data Science</strong>, 5(1), p.21. (2016)</em> </p>
+</ul>
+</div>
+<hr />
+
+<div class="row">
+<ul class="nobull">
+	<h6><a href="">Human metapneumovirus epidemiological and evolutionary patterns in Coastal Kenya, 2007-11.</a></h6>
+	<p>Owor, Betty E., Masankwa, Geoffrey N., Mwango, Lilian C., Njeru, Regina W., Agoti, Charles N., Nokes, D. James. 
+	<br /><em><strong>BMC Infectious Diseases, 16 (1), p.301 (2016)</strong></em> </p>
+</ul>
+</div>
+<hr />
+
+<div class="row">
+<ul class="nobull">
+	<h6><a href="">Human Rhinovirus B and C genomes from rural coastal Kenya</a></h6>
+	<p>Agoti, Charles N., Kiyuka, Patience K., Kamau, Everlyn, Munywoki, Patrick K., Bett, Anne, van der Hoek, Lia, Kellam, Paul, Nokes, D. James, Cotten, Matthew. 
+	<br /><em><strong>Genome Announcements, 4 (4), pp. 1-2 (2016)</strong></em> </p>
+</ul>
+</div>
+<hr />
+
+
+<div class="row">
+<ul class="nobull">
+	<h6><a href="">Molecular evolutionary dynamics of respiratory syncytial virus group A in recurrent epidemics in coastal Kenya.</a></h6>
+	<p>Otieno, James R., Agoti, Charles N., Gitahi, Caroline W., Bett, Ann, Ngama, Mwanajuma, Medley, Graham F, Cane, Patricia A., Nokes, D. James. 
+	<br /><em><strong>Journal of Virology, 90 (10), pp. 4990-5002 (2016)</strong></em> </p>
+</ul>
+</div>
+<hr />
+<a href="http://www2.warwick.ac.uk/fac/sci/lifesci/people/publications?id=001838" target="_blank"> --&gt; view all Prof. James Nokes' publications</a>
+
+</div>
+</div>
+</div>
+
+:ET
